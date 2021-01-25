@@ -37,7 +37,7 @@ ni .gitignore
 ## Commands I used
 
 ```Bash
-\\retrieve
+\\retrieved the great gatsby
 curl "http://gutenberg.net.au/ebooks02/0200041.txt" -O 
 
 \\ copy
