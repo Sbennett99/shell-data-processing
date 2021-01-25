@@ -31,4 +31,5 @@ tr ' ' '\12' < data.txt | sort | uniq -c | sort -nr > result.txt
 
 ```
 [Data](data.txt)
+
 [Results](result.txt)
